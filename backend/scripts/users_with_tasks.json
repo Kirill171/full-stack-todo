@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+    "email": "user@example.com",
+    "username": "user123",
+    "password": "$2a$10$Z4Bm3xWQ8HrlXsNRgULISe.NmD0Mr11LxGYtD/eYkDy9SiSh0Lmq.",
+    "createdAt": "2025-01-06T21:22:01.011Z",
+    "updatedAt": "2025-01-06T21:22:01.011Z",
+    "tasks": [
+      {
+        "id": 1,
+        "title": "string",
+        "description": "string",
+        "isCompleted": true,
+        "userId": 1
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "email": "user@gmail.com",
+    "username": "user",
+    "password": "$2a$10$zvvCmNsPSlIP2esUrBqYFeHszS9sIilGF/etJY.AnzkfSzNcFKU9G",
+    "createdAt": "2025-01-06T22:23:00.900Z",
+    "updatedAt": "2025-01-06T22:23:00.900Z",
+    "tasks": [
+      {
+        "id": 2,
+        "title": "Task for username: user",
+        "description": "Task for username: user ;D",
+        "isCompleted": false,
+        "userId": 2
+      }
+    ]
+  }
+]

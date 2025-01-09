@@ -3,6 +3,9 @@
 /node_modules
 /build
 
+# export data base
+/users_with_tasks.json
+
 # Logs
 logs
 *.log
